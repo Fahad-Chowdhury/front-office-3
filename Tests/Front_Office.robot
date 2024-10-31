@@ -9,7 +9,7 @@ Test Teardown  End Web Test
 
 *** Variables ***
 ${BROWSER} =  ie
-${URL} =  http://www.robotframeworktutorial.com/front-office
+${URL} =  https://automationplayground.com/front-office/
 
 *** Test Cases ***
 Should be able to access "Team" page
